@@ -125,6 +125,7 @@
 该领域共有 1 篇论文
 
 ### Sensor-based Continuous Authentication of Smartphones' Users Using Behavioral Biometrics: A Contemporary Survey 
+
 [[arxiv](https://arxiv.org/abs/2001.08578)] [[cool](https://papers.cool/arxiv/2001.08578)] [[pdf](https://arxiv.org/pdf/2001.08578)]
 > **Authors**: Mohammed Abuhamad,Ahmed Abusnaina,DaeHun Nyang,David Mohaisen
 > **First submission**: 2020-01-23
